@@ -1,6 +1,4 @@
 
-
-```
 # Inventory Management System
 
 This is a simple Python project that simulates a basic inventory management system. It allows users to add products, remove products, and display the current inventory.
@@ -44,6 +42,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Commit your changes (`git commit -am 'Add your feature'`).
 5. Push to the branch (`git push origin feature/your-feature-name`).
 6. Create a new pull request.
-
-## License
-None
