@@ -15,7 +15,7 @@ This is a simple Python project that simulates a basic inventory management syst
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/inventory-management.git
+git clone https://github.com/Roshanaka9hunnidbands/inventory-management.git
 ```
 
 2. Navigate to the project directory:
